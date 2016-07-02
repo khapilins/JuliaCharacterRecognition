@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# vscode and ipython folders
+.vscode
+.ipynb_checkpoints
+
+# data folders (data can be found at kaggle)
+test
+train
